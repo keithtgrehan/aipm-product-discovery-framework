@@ -1,0 +1,2 @@
+id,omission_baseline,omission_structured,delta_rel_pct,fail_baseline,fail_structured,latency_baseline_ms,latency_structured_ms
+FAT-001,1.000000,1.000000,0.00,true,true,13396.61,11279.88
